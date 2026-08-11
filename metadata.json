@@ -1,0 +1,6 @@
+{
+  "name": "Password Strength Analyzer",
+  "description": "Comprehensive password security tool evaluating length, entropy, character complexity, common weak patterns, reuse history, and AI security feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
